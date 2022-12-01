@@ -1,1 +1,3 @@
-# EXERC-CIO_AULAS
+# EXERCICIO_AULAS
+
+Exercícios feitos em sala de aula.
